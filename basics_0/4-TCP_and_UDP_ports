@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script shows all active listening ports for TDP and UCP
+netstat -ltnp
